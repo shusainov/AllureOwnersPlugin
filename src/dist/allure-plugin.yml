@@ -1,0 +1,7 @@
+id: owners
+name: Owners aggregator
+description: The aggregator adds packages tab to the report
+extensions:
+  - ru.skhusainov.OwnersPlugin
+jsFiles:
+  - index.js
